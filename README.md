@@ -1,3 +1,3 @@
-# Flutter_SQFLite_database
+# SQFLite_database
 
 All file of app
